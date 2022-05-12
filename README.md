@@ -11,17 +11,23 @@
 # Montage
 
 ## Positionnement des composants
-Faites attention à bien positionner le lolin D32, en prenant comme repère le port USB.
+Faites attention à bien positionner le lolin D32, en prenant comme repère le port USB.   
 ![Position Composants](Positionnement_Composants.jpg)
+
+## Faire un pont de soudure
+Nous allons avoir besoin de relier plusieurs + (VCC) et - (GND) pour alimenter les différents composants.   
+
+Pour cela nous allons faire un pont de soudure à l'aide d'un câble dénudé
+
+https://user-images.githubusercontent.com/2841495/168049113-339e2527-cfae-4e33-aa5a-d6395ec7d343.mov
+
 
 ## Soudure du VCC et GND
 Retourner la carte et souder les composants en place.    
 
 Positionnez la carte par rapport au port USB.
 
-Nous allons avoir besoin de relier plusieurs + (VCC) et - (GND) pour alimenter les différents composants.   
 
-Pour cela nous allons faire un pont de soudure à l'aide d'un câble dénudé
 
 ![Soudure VCC et GND](Soudure_du_VCC_GND.jpg)
 

@@ -7,6 +7,7 @@
 * Condensateur 1000µF
 * Gyroscope / Accéléromètre MPU6050
 * [Récepteur Radio GERMA](https://fr.aliexpress.com/item/4000380603041.html)
+* Stripboard 4x6cmx6
 
 # Montage
 

@@ -23,7 +23,8 @@ https://user-images.githubusercontent.com/2841495/168049113-339e2527-cfae-4e33-a
 
 
 ## Soudure du VCC et GND
-Retourner la carte et souder les composants en place.    
+Retourner la carte et souder les composants en place. 
+Attention! Vu que nous retournons la carte tout est inversé
 
 Positionnez la carte par rapport au port USB.
 
